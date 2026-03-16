@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallScribe</string>
+    <string name="notification_channel_name">Enregistrement CallScribe</string>
+    <string name="notification_channel_description">Notification affichee pendant l\'enregistrement ambiant d\'appel.</string>
+    <string name="notification_title_recording">Enregistrement en cours</string>
+    <string name="notification_text_recording">Capture ambiante via micro actif.</string>
+    <string name="notification_action_stop">Arreter</string>
+</resources>
